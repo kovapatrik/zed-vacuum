@@ -1,6 +1,11 @@
 [package]
-name = "zed-vacuum"
+name = "zed_vacuum"
 version = "0.1.0"
 edition = "2021"
 
+[lib]
+path = "src/vacuum.rs"
+crate-type = ["cdylib"]
+
 [dependencies]
+zed_extension_api = "0.1.0"
