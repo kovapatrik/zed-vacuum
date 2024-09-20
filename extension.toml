@@ -1,6 +1,6 @@
 id = "zed-vacuum"
-name = "Vacuum"
-version = "0.0.1"
+name = "vacuum"
+version = "0.1.0"
 schema_version = 1
 authors = [
     "Patrik Kovalovszky <kovapatrik@gmail.com>",
