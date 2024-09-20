@@ -1,7 +1,7 @@
 id = "zed-vacuum"
-name = "Zed Vacuum"
+name = "Vacuum"
 version = "0.0.1"
 schema_version = 1
 authors = ["Patrik Kovalovszky <kovapatrik@gmail.com>"]
-description = "Vacuum extension for Zed"
+description = "Support for Vacuum, the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool"
 repository = "https://github.com/kovapatrik/zed-vacuum"
