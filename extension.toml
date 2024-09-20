@@ -1,0 +1,7 @@
+id = "zed-vacuum"
+name = "Zed Vacuum"
+version = "0.0.1"
+schema_version = 1
+authors = ["Patrik Kovalovszky <kovapatrik@gmail.com>"]
+description = "Vacuum extension for Zed"
+repository = "https://github.com/kovapatrik/zed-vacuum"
