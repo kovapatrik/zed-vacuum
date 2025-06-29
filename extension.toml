@@ -11,4 +11,4 @@ repository = "https://github.com/kovapatrik/zed-vacuum"
 
 [language_servers.vacuum]
 name = "vacuum"
-languages = ["YAML"]
+languages = ["YAML", "JSON"]
